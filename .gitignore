@@ -1,0 +1,12 @@
+# Local configuration, credentials, and runtime artifacts
+.codex/
+.env
+.env.*
+!.env.example
+*.local
+*.local.*
+private/
+local/
+backups/
+logs/
+.DS_Store
